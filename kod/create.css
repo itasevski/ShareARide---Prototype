@@ -1,0 +1,19 @@
+.footer {
+    font-size: 40px;
+}
+
+body{
+    min-height: 110vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#myFooter {
+    margin-top: auto;
+}
+
+#myContainer {
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    padding: 20px;
+}

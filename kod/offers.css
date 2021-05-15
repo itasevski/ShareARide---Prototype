@@ -1,0 +1,32 @@
+.footer {
+    font-size: 40px;
+}
+
+body{
+     min-height: 110vh;
+     display: flex;
+     flex-direction: column;
+ }
+
+#myFooter {
+    margin-top: auto;
+}
+
+table img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+table {
+    border-top: 1px solid gray;
+}
+
+#profileLink {
+    text-decoration: none;
+    color: black;
+}
+
+#profileLink:hover {
+    color: #049dff;
+}
